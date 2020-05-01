@@ -1,0 +1,11 @@
+Package: fortuneteller
+Type: Package
+Title: Digital fortune Teller
+Version: 0.1.0
+Author: Adeline Torey
+Maintainer: Adeline Torey <adeline.torey@gmail.com>
+Description: Contains one function which simulates the fortune teller origami game
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
